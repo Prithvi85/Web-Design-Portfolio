@@ -1,0 +1,286 @@
+.reset{clear:both;}
+
+body
+{
+background-color:#6699cc;
+}
+
+.body{background:#6699cc ;
+width:800px;
+height:1020px;
+margin:0px auto;}
+
+.body_area{width:780px;
+height:1000px;
+position:relative;
+top:9px;
+left:10px;
+background:#FFFFFF;
+}
+
+.header{width:780px;
+height:410px;
+border-bottom:7px solid #2e2d2e;
+position:relative;
+top:0px;
+left:0px;}
+
+.orange_box{width:232px;
+height:341px;
+float:left;
+background-color:#ff6200;
+position:relative;}
+
+.yellow_box{width:233px;
+height:72px;
+background-color:#ffb640;
+position:relative;
+left:-232px;
+top:272px;
+float:left;
+}
+
+.main_img{background:url(barefoot2andaman.jpg) no-repeat;
+width:548px;
+height:411px;
+position:relative;
+float:left;}
+
+.logo_img{background:url(logo.jpg);
+width:85px;
+height:67px;
+position:relative;
+float:right;}
+
+
+.btn_area{width:200px;
+height:272px;
+position:relative;
+top:0px;
+left:25px;}
+
+.btn_area  ul{list-style-image:url(square.png);
+width:8px;
+height:8px;
+}
+
+.btn_area  ul li{margin-top:40px;}
+
+
+.btn_area  ul li a{color:#ffffff;
+font-family:Lucida Sans;
+font-size:18px;
+text-decoration:none;}
+
+
+.btn_area  ul li a:hover{color:#96c63f;
+font-family:Lucida Sans;
+font-size:18px;
+text-decoration:none;}
+
+
+.txt_area{width:752px;
+height:342px;
+position:relative;
+top:42px;
+left:16px;
+}
+
+.txt_left{width:190px;
+height:342px;
+position:relative;
+top:0px;
+left:-20px;
+
+border-right:4px solid #505050;
+float:left;}
+
+.img_area{
+width:184px;
+height:143px;
+position:relative;
+top:42px;
+left:17px;
+}
+
+.left_img1
+{width:131px;
+height:103px;
+background-image:url(MD.png);
+position:relative;
+top:-25px;
+left:15px;
+float:left;
+}
+
+.txt_left_one{width:210px;
+height:18px;
+position:relative;
+top:-17px;
+left:13px;
+font-family:Lucida Sans;
+font-size:18px;
+color:#96c63f;
+}
+
+.txt_left_two{width:157px;
+height:169px;
+position:relative;
+top:11px;
+left:7px;
+font-family:Lucida Sans;
+font-size:14px;
+color:#505050;
+float:left;
+}
+
+.txt_right
+{width:591px;
+height:342px;
+position:relative;
+top:49px;
+left:188px;
+font-family:Lucida Sans;
+font-size:14px;
+color:#505050;
+float:left;
+}
+
+.txt_right_one
+{width:576px;
+height:310px;
+position:relative;
+top:-400px;
+left:-4px;
+font-family:Lucida Sans;
+font-size:14px;
+color:#505050;
+float:left;
+}
+
+.right_img1
+{width:185px;
+height:107px;
+background-image:url(Companybus.png);
+position:relative;
+top:-490px;
+left:370px;
+float:left;
+}
+
+#footer
+{width:780px;
+height:94px;
+background-color:#ffffff;
+position:relative;
+top:-190px;
+left:0px;
+border-top:4px solid #505050;
+float:left;}
+
+#foot_nev
+{
+width:350px;
+height:60px;
+top:10px;
+left:50px;
+text-align:center;
+font-family:Lucida Sans;
+font-size:11px;
+}
+
+
+#foot_nev1
+{
+width:350px;
+height:9px;
+top:-71px;
+right:-215px;
+position: relative;
+text-align:left;
+font-family:Lucida Sans;
+font-size:11px;
+}
+
+#foot_nev2
+{
+width:350px;
+height:9px;
+top:-90px;
+right:-284px;
+position: relative;
+text-align:left;
+font-family:Lucida Sans;
+font-size:11px;
+}
+
+#foot_nev3
+{
+width:350px;
+height:9px;
+top:-110px;
+right:-350px;
+position: relative;
+text-align:left;
+font-family:Lucida Sans;
+font-size:11px;
+}
+
+#foot_nev4
+{
+width:350px;
+height:9px;
+top:-130px;
+right:-440px;
+position: relative;
+text-align:left;
+font-family:Lucida Sans;
+font-size:11px;
+}
+
+.lower_txt{width:107px;
+height:28px;
+position:relative;
+top:0px;
+right:0px;
+border-right:0px;
+align:center;}
+
+.lower_txt_one{
+width:86px;
+height:9px;
+position:relative;
+top:-125px;
+right:-325px;
+font-family:Lucida Sans;
+font-size:10px;
+color:#676767;
+}
+
+.lower_txt_two{
+width:107px;
+height:10px;
+position:relative;
+top:-115px;
+right:-322px;
+font-family:Lucida Sans;
+font-size:10px;
+color:#676767;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
